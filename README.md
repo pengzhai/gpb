@@ -1,2 +1,2 @@
 # gpb
-coding exercises from gpb
+coding samples from gpb
